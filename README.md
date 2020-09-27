@@ -1,6 +1,3 @@
-# UCSAR library
-Information library for book downloads of the subjects taught in the Social Communication degree program at the UCSAR college
-
 # UCSAR Library
 
 UCSAR library is a project to information library for book downloads of the subjects taught in the Social Communication degree program at the UCSAR college. This project is based on HTML,JavaScript, JQuery and Bootstrap.
