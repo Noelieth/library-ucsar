@@ -28,7 +28,7 @@ localhost/library-usar
 * [JavaScript](https://www.javascript.com/) - client-side language
 * [Bootstrap 3](https://getbootstrap.com/) - a css framework
 
-## Autores ✒️
+## Author ✒️
 
 * **Noelieth Longart** - [noeliethlongart](https://www.behance.net/noeliethlongart)
 
